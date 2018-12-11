@@ -1,5 +1,8 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.bumptech.glide.load.engine.Resource" />
+    <EXCLUDED_PACKAGE NAME="javax.annotation.Resource" />
   </component>
 </application>
