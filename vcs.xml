@@ -6,9 +6,13 @@
           <option name="url" value="git@github.com:googlesamples/android-architecture-components.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:joharei/flutter_wear_plugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/code/android" />
+    <option name="cloneParentDir" value="$USER_HOME$/code/flutter" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
