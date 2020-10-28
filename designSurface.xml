@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_installer_wizard.xml" value="0.2824214792299899" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.5045289855072463" />
+      </map>
+    </option>
+  </component>
+</application>
