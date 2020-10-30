@@ -14,6 +14,7 @@
         <entry key="app/src/main/res/layout/activity_installer_wizard.xml" value="0.49074074074074076" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.5045289855072463" />
         <entry key="app/src/main/res/layout/fragment_connect_to_charger_error.xml" value="0.49074074074074076" />
+        <entry key="app/src/main/res/layout/fragment_pin_entry.xml" value="0.353125" />
       </map>
     </option>
   </component>
