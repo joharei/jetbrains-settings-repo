@@ -13,6 +13,7 @@
         <entry key="app/src/main/res/layout/activity_garden.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_installer_wizard.xml" value="0.49074074074074076" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.5045289855072463" />
+        <entry key="app/src/main/res/layout/fragment_connect_to_charger_error.xml" value="0.49074074074074076" />
       </map>
     </option>
   </component>
