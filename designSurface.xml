@@ -8,6 +8,7 @@
         <entry key="../../../../../layout/compose-model-1603962429103.xml" value="0.3511560693641618" />
         <entry key="../../../../../layout/compose-model-1604050003735.xml" value="0.29508611955420466" />
         <entry key="../../../../../layout/compose-model-1604050141214.xml" value="0.29508611955420466" />
+        <entry key="../../../../../layout/compose-model-1604058170084.xml" value="0.1" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.8441176470588235" />
         <entry key="app/build/generated/res/nynorsk/drawable/ic_error_outline_24.xml" value="0.3487179487179487" />
         <entry key="app/build/generated/res/nynorsk/drawable/ic_scanner_24.xml" value="0.35104166666666664" />
@@ -18,6 +19,7 @@
         <entry key="app/src/main/res/layout/activity_installer_wizard.xml" value="0.49074074074074076" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.5045289855072463" />
         <entry key="app/src/main/res/layout/fragment_connect_to_charger_error.xml" value="0.49074074074074076" />
+        <entry key="app/src/main/res/layout/fragment_input.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_pin_entry.xml" value="0.353125" />
       </map>
     </option>
