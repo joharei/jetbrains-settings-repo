@@ -20,6 +20,7 @@
         <entry key="../../../../../layout/compose-model-1604398343851.xml" value="0.29508611955420466" />
         <entry key="../../../../../layout/compose-model-1604400080012.xml" value="0.29533941236068895" />
         <entry key="../../../../../layout/compose-model-1604406476439.xml" value="0.29508611955420466" />
+        <entry key="../../../../../layout/compose-model-1604414414226.xml" value="0.29508611955420466" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.8441176470588235" />
         <entry key="app/build/generated/res/nynorsk/drawable/ic_error_outline_24.xml" value="0.3487179487179487" />
         <entry key="app/build/generated/res/nynorsk/drawable/ic_scanner_24.xml" value="0.35104166666666664" />
@@ -32,7 +33,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.353125" />
         <entry key="app/src/main/res/layout/fragment_connect_to_charger_error.xml" value="0.49074074074074076" />
         <entry key="app/src/main/res/layout/fragment_input.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/fragment_pin_entry.xml" value="0.353125" />
+        <entry key="app/src/main/res/layout/fragment_pin_entry.xml" value="0.4824074074074074" />
       </map>
     </option>
   </component>
